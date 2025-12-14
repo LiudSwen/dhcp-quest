@@ -33,16 +33,16 @@ Mini-lab réalisé en VM pour démontrer la mise en place d’un serveur DHCP so
 
 ## Preuves (captures)
 1. **Scope DHCP (serveur)**  
-   ![Scope DHCP](docs/01-dhcp-server-scope.png)
+   ![Scope DHCP](ressources/01-dhcp-server-scope.png)
 
 2. **Client 1 — DHCP dynamique**  
-   ![Client 1](docs/02-client1-dhcp.png)
+   ![Client 1](ressources/02-client1-dhcp.png)
 
 3. **Client 2 — IP réservée**  
-   ![Client 2](docs/03-client2-reservation.png)
+   ![Client 2](ressources/03-client2-reservation.png)
 
 4. **Réservation côté serveur**  
-   ![Reservation](docs/04-server-reservation.png)
+   ![Reservation](ressources/04-server-reservation.png)
 
 ## Tests effectués
 Sur les clients :
