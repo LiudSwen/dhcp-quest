@@ -31,7 +31,6 @@ Ce laboratoire a été réalisé dans un environnement virtualisé et vise à d�
 
 ## ⚙️ Installation du service DHCP
 
-```bash
 sudo apt update
 sudo apt install isc-dhcp-server
 # DHCP Lab — Debian Server (isc-dhcp-server)
